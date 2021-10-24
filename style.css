@@ -1,0 +1,15 @@
+body{
+    margin : 0;
+    width : 100vh;
+    height : 100vh;
+    overflow : hidden;
+    background-color: black;
+}
+
+#evil-button{
+    position : absolute;
+    white-space: nowrap;
+    font-size: 2rem;
+    background-color : red;
+    color : white;
+}
